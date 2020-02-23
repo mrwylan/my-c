@@ -1,3 +1,3 @@
-# First steps with c prgramming languare
+# First steps with c prgramming language
 
 execute run.sh
